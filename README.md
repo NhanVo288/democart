@@ -19,3 +19,17 @@ Kiểm tra xem Python và pip đã được cài đặt chưa bằng cách chạ
 ```bash
 python --version
 pip --version
+
+
+
+## Bước 2: Cài Đặt Các Thư Viện Cần Thiết
+
+Sử dụng `pip` để cài đặt các thư viện cần thiết cho dự án của bạn. Các thư viện cơ bản bao gồm:
+
+- **Selenium**: Thư viện chính để tự động hóa các trình duyệt web.
+- **pytest**: Thư viện để viết và chạy các bài kiểm tra.
+
+Mở terminal hoặc command prompt và chạy lệnh sau:
+
+```bash
+pip install selenium pytest
