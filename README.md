@@ -76,9 +76,10 @@ Khi bạn chạy lệnh kiểm thử, bạn có thể thấy kết quả như sa
 ============================= test session starts ==============================
 collected 1 item                                                               
 
-test_data_validation.py::test_macbook_data_validation PASSED              [100%]
+democart.py::test_logout PASSED                                          [100%]
 
-============================== 1 passed in 3.45s ===============================
+============================== 1 passed in 19.72s ===============================
+
 ```
 Nếu xảy ra lỗi, pytest sẽ cung cấp thông tin chi tiết về vị trí và nguyên nhân gây lỗi.
 ## Bước 4: Khắc phục sự cố
